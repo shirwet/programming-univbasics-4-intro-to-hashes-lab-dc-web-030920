@@ -32,10 +32,12 @@ end
 
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
-  If hash_4 = [key] 
-  hash_4 [key] += 1
-else   hash_4[key] = 1
-
+if hash[key]
+hash[key]+=1
+else   
+  
+hash[key] = 1
+end
 end
 
 def update_counting_hash(hash, key)
