@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  Hash = {"name" => “Shirwet”, "age"=> 31}
+  hash = {"name" => “Shirwet”, "age"=> 31}
 end
 
 def pioneer
