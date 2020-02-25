@@ -13,7 +13,7 @@ end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
-  puts hash1 = { name: “Grace Hooper”}
+  hash = { name: “Grace Hooper”}
 end
 
 def id_generator
