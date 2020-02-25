@@ -32,10 +32,10 @@ end
 
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
-  If my_hash = [key] 
+  If hash_4 = [key] 
 my_hash [key] += 1
 else 
-puts nil
+return nil
 
 end
 
