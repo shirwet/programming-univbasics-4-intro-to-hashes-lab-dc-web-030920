@@ -33,7 +33,7 @@ end
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
   If hash_4 = [key] 
-my_hash [key] += 1
+  hash_4 [key] += 1
 else 
 return nil
 
